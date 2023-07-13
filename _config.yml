@@ -28,16 +28,11 @@ description: >-
   MLSS^S 2023 is a summer school providing a didactic introduction to a range of modern topics in Machine Learning
   and their applications in other disciplines of Science, primarily intended for research-oriented graduate students. 
   The school features a line-up of internationally recognized researchers who will talk with enthusiasm about their subjects. 
-  Our goal is to provide a unique opportunity to learn from and connect with the leading experts in the scenic setting of the historic city of Kraków, Poland.
+  Our goal is to provide a unique opportunity to learn from and connect with the leading experts in the scenic setting of the historic city of Krakóh Poland.
 twitter-username: "@MLinPL"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://shivg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-author:
-  name: ML in PL Association
-  url: https://mlinpl.org
-
-
-# Header settings
+baseurl: "shivg.github.io" # the subpath of your site, e.g. /blog
+url: "https://shivg.github.io" # the base hostname & protocol for your site, e.g. http://example.co
+   Header settings
 inline-logo: '<span class="logo"><span class="main-name">MLSS<span class="superscript">S</span></span> <span class="sub-name">2023</span></span>'
 header:
   heading: '<span class="logo"><span class="main-name">MLSS<span class="superscript">S</span></span> <span class="sub-name">2023</span></span>'
