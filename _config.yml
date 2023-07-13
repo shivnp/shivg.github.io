@@ -31,7 +31,7 @@ description: >-
   Our goal is to provide a unique opportunity to learn from and connect with the leading experts in the scenic setting of the historic city of Kraków, Poland.
 twitter-username: "@MLinPL"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mlss2023.mlinpl.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shivg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: ML in PL Association
   url: https://mlinpl.org
