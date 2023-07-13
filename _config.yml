@@ -30,8 +30,8 @@ description: >-
   The school features a line-up of internationally recognized researchers who will talk with enthusiasm about their subjects. 
   Our goal is to provide a unique opportunity to learn from and connect with the leading experts in the scenic setting of the historic city of Krakóh Poland.
 twitter-username: "@MLinPL"
-baseurl: "shivg.github.io" # the subpath of your site, e.g. /blog
-url: "https://shivg.github.io" # the base hostname & protocol for your site, e.g. http://example.co
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://shivnp.github.io/shivg.github.io" # the base hostname & protocol for your site, e.g. http://example.co
    Header settings
 inline-logo: '<span class="logo"><span class="main-name">MLSS<span class="superscript">S</span></span> <span class="sub-name">2023</span></span>'
 header:
